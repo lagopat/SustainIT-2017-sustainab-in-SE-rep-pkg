@@ -1,4 +1,4 @@
-# Thesis / Paper Title
+# Sustainability in Software Engineering
 This repository is a companion page for the following publication:
 > Nina Wolfram, Patricia Lago, and Francesco Osborne (2017). Sustainability in Software Engineering. The Fifth IFIP Conference on Sustainable Internet and ICT for Sustainability (SustainIT).
 
